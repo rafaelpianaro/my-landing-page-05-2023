@@ -21,6 +21,11 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
 .logo {
     font-family: "Arial", sans-serif;
     font-size: 32px;
